@@ -1,0 +1,7 @@
+*-backups
+*.bak
+*-bak
+*.lck
+*.backup
+_autosave*.kicad_pcb
+.~lock*
