@@ -2744,6 +2744,7 @@
 		(path "/650bfd08-7d36-48ca-8c28-4d464d004c8c")
 		(sheetname "Root")
 		(sheetfile "sfh7072_breakoutboard.kicad_sch")
+		(solder_paste_ratio -0.1)
 		(attr smd)
 		(fp_line
 			(start -3.1 2.225)
