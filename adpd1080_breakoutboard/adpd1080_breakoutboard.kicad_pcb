@@ -301,6 +301,7 @@
 		(path "/4e1bdf6d-96a6-4ddb-b243-f40aaa8d7fb8/c95365a9-36a4-485e-b81b-585ca32addbc")
 		(sheetname "adpd1080_control")
 		(sheetfile "adpd1080_control.kicad_sch")
+		(solder_paste_ratio -0.1)
 		(attr smd)
 		(fp_circle
 			(center -2.375 -1.8)
@@ -2749,6 +2750,7 @@
 		(path "/4e1bdf6d-96a6-4ddb-b243-f40aaa8d7fb8/6c2d2307-f670-40c4-ac7f-876d359750e7")
 		(sheetname "adpd1080_control")
 		(sheetfile "adpd1080_control.kicad_sch")
+		(solder_paste_ratio -0.1)
 		(attr smd)
 		(fp_line
 			(start 0 -2.61)
@@ -3573,7 +3575,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R1"
-			(at 0 1.26 270)
+			(at 0 1.26 -90)
 			(layer "F.SilkS")
 			(uuid "ab791d03-0d1a-4a69-9ef0-25a778bd7b75")
 			(effects
@@ -3584,7 +3586,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 0 1.17 270)
+			(at 0 1.17 -90)
 			(layer "F.Fab")
 			(uuid "a5a6f095-e571-4de8-9912-11b91e9b5556")
 			(effects
@@ -3736,7 +3738,7 @@
 			(uuid "21e3e024-e9ce-47c3-8eac-c9be7bd009f1")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(uuid "f6629f1e-55f7-4aed-8c52-0a22acc3bcf0")
 			(effects
@@ -4609,6 +4611,7 @@
 		(path "/29a78bc7-853a-40c1-b95e-b41538a0d492/81df60cc-ddc9-4600-be93-e647864a7259")
 		(sheetname "power")
 		(sheetfile "power_in.kicad_sch")
+		(solder_paste_ratio -0.1)
 		(attr smd)
 		(fp_line
 			(start -1.6764 1.6764)
