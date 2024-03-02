@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "breakoutboard")(type "KiCad")(uri "/home/lamikr/own/pcb/kicad/breakoutboards/components/symbols/breakoutboard.kicad_sym")(options "")(descr ""))
+)
