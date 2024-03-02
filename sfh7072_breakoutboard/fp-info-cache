@@ -1,4 +1,4 @@
-23143286849748656
+23144996216216431
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -94772,6 +94772,13 @@ Integrated Circuit
 0
 33
 33
+breakoutboard
+SFH7070
+
+SFH 7070 
+0
+6
+6
 breakoutboard
 SFH7072
 SFH 7072
