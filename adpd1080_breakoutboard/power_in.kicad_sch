@@ -4,6 +4,10 @@
 	(generator_version "8.0")
 	(uuid "69cbcb15-790e-4229-9e66-2b433cb18f9e")
 	(paper "A4")
+	(title_block
+		(title "ADPD1080 Breakoutboard")
+		(rev "v0.2")
+	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x01_Pin"
 			(pin_names
